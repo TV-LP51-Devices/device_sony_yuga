@@ -1,0 +1,42 @@
+[
+  {
+    "repository": "TV-LP51-Devices/device_sony_fusion3-common",
+    "target_path": "device/sony/fusion3-common",
+    "revision": "lp5.1"
+  },
+  {
+    "repository": "CyanogenMod/android_device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common",
+    "revision": "cm-12.1"
+  },
+  {
+    "repository": "TV-LP51-Devices/device_sony_msm8960-common",
+    "target_path": "device/sony/msm8960-common",
+    "revision": "lp5.0"
+  },
+  {
+    "repository": "Alx31/android_device_sony_common",
+    "target_path": "device/sony/common",
+    "revision": "evo-mix"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_sony_DASH",
+    "target_path": "hardware/sony/DASH",
+    "revision": "cm-12.0"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.1"
+  },
+  {
+    "repository": "EvoMix/kernel_apq8064",
+    "target_path": "kernel/sony/apq8064",
+    "revision": "EvoMix"
+  },
+  {
+    "repository": "Alx31/proprietary_vendor_sony",
+    "target_path": "vendor/sony",
+    "revision": "cm-12.1"
+  }
+]
